@@ -1,0 +1,21 @@
+header {
+  background: silver; 
+  height: 50px;
+}
+nav {
+  background: aqua;
+  height: 600px;
+  width: 25%;
+  float: left;
+}
+main {
+  background: green;
+  height: 600px;
+  width: 75%;
+  float: left;
+}
+
+footer {
+  background: blue;
+  clear: both;
+}
